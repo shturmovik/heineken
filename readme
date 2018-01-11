@@ -1,0 +1,6 @@
+Сделано в VS Community 2017 (15.5.3). 
+В зависимостях - библиотека MySQL.Data.dll. 
+Отдельным классом (MySQL.cs) описано обращение к базе MySQL (TestDB, таблица FIO_PhoneBook, скрипт для создания - MySQL_table_create)
+Код винформы - Form1.cs
+
+Солюшен - в архиве WindowsFormsApp1.zip.
